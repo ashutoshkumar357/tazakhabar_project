@@ -23,7 +23,7 @@ script.js: JavaScript file containing logic for fetching and displaying news art
 assets/: Folder containing static assets like images (e.g., the company logo).
 
 Setup Instructions:
-Clone the Repository: git clone https://github.com/yourusername/taza-khabar.git
+Clone the Repository: git clone https://github.com/yourusername/tazakhabar_project.git
 
 API Key Setup:
 Obtain an API key from NewsAPI.
